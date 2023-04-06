@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Computer Science\\Esseme\\contact\\contact_list\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "D:\\Computer Science\\Flutter\\Formation Flutter\\Contact-list\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Le boss\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-ca\\values-ca.xml",

@@ -13,11 +13,11 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\Computer Science\Esseme\contact\contact_list\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->D:\Computer Science\Esseme\contact\contact_list\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->D:\Computer Science\Flutter\Formation Flutter\Contact-list\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->D:\Computer Science\Flutter\Formation Flutter\Contact-list\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.READ_CONTACTS" />
-16-->D:\Computer Science\Esseme\contact\contact_list\android\app\src\main\AndroidManifest.xml:4:5-72
-16-->D:\Computer Science\Esseme\contact\contact_list\android\app\src\main\AndroidManifest.xml:4:22-69
+16-->D:\Computer Science\Flutter\Formation Flutter\Contact-list\android\app\src\main\AndroidManifest.xml:4:5-72
+16-->D:\Computer Science\Flutter\Formation Flutter\Contact-list\android\app\src\main\AndroidManifest.xml:4:22-69
 17
 18    <application
 19        android:name="android.app.Application"
