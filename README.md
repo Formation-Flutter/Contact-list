@@ -18,7 +18,7 @@ Ajouter cette line dans votre  AndroidManifest.xml le path est android\app\src\m
 
 
 une image pour montre cela 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Formation-Flutter/Contact-list/blob/main/img1.png)
 
 ```xml  
 <uses-permission android:name="android.permission.READ_CONTACTS" />  
@@ -34,8 +34,26 @@ Set the `NSContactsUsageDescription` in your `Info.plist` file
 
 **Note**
 `fast_contacts` doesn't handle permissions. Use special plugins (like [permission_handler](https://pub.dartlang.org/packages/permission_handler)) to ask for the permission before accessing contacts.
+## Installation du projet 
 
-## Available contact info
+### Window
+- ouvre ton terminal dans ton ficher desire 
+- asure toi que git a bien ete installer dans ton projet 
+- tu tape la commande 
+```xml  
+git clone  https://github.com/Formation-Flutter/Contact-list.git
+``` 
+- tu entre dans le ficher 
+
+- tu ouvre le terminal et tu tape 
+```xml  
+    flutter pub get 
+``` 
+- si tu a des problem de version fait sign 
+
+- sinon tape `flutter run` et le tour est joue 😌 
+
+## Les information de chaque contact
 
 - ID
 - Display name
@@ -60,7 +78,7 @@ final thumbnail = await FastContacts.getContactImage(contacts[0].id);
 final thumbnail = await FastContacts.getContactImage(contacts[0].id, size: ContactImageSize.fullSize);
 ```
 
-For a more complete usage example, see `example` project.
+Si vous avez un problem ecrivez dans le groupe `CamaireTech Cohort`,
 
 ## Performance
 
