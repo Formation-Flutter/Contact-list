@@ -84,6 +84,4 @@ Si vous avez un problem ecrivez dans le groupe `CamaireTech Cohort`,
 
 Loading 1000+ contacts (display name, structured name, phones, emails) at once takes ~200ms on both Android (Samsung Galaxy S8) and iOS (iPhone 8).
 
-![Android: Samsung Galaxy S8](doc/images/android_screenshot.png)
-
-![iOS: iPhone 8](doc/images/ios_screenshot.png)
+![alt text](https://github.com/Formation-Flutter/Contact-list/blob/main/result.jpeg)
